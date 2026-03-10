@@ -1,0 +1,19 @@
+<Solution>
+  <Project Path="../Concat/Concat.csproj" Id="59d12b79-d52b-4c60-b6ec-2aeac7ed1ac4" />
+  <Project Path="../ConsoleInput/ConsoleInput.csproj" Id="746f99e9-d10d-492d-b952-78e2071a8351" />
+  <Project Path="../Const/Const.csproj" Id="894b0178-ad60-4a47-8fcc-5b02824bcb0f" />
+  <Project Path="../FizzBuzz/FizzBuzz.csproj" Id="20078552-5655-4509-a50d-8e69ed13b6fc" />
+  <Project Path="../For-Loop/For-Loop.csproj" Id="f21a96a3-08f3-4d31-adf9-d90beedab7b1" />
+  <Project Path="../If-Statments/If-Statments.csproj" Id="9ace29ff-0feb-4cb7-b3ef-15b7c24bc2f9" />
+  <Project Path="../Loops/Loops.csproj" Id="c3bc3b56-04a1-49f9-b604-aeabf012abe9" />
+  <Project Path="../Number-Formatting/Number-Formatting.csproj" Id="60ca154f-a96e-4935-b791-2c6e1781cea0" />
+  <Project Path="../Odd-Even/Odd-Even.csproj" Id="3a3a362d-119c-49b7-9a2e-21182b3f6ab5" />
+  <Project Path="../Operators/Operators.csproj" Id="6b6148f9-e6b2-42e6-abe1-07890da36cd6" />
+  <Project Path="../Parse-Function/Parse-Function.csproj" Id="67d37679-af55-44a5-89b6-c16e070ee678" />
+  <Project Path="../string/string.csproj" Id="4062a8cd-bd1d-4f35-a082-ce35d9958a05" />
+  <Project Path="../SwitchStatments/SwitchStatments.csproj" Id="b1551f46-8ac4-4c6e-9aba-3b51a292c9de" />
+  <Project Path="../Times-Table/Times-Table.csproj" Id="bb4b4909-096f-4edd-92ce-0ba6e4e8c68b" />
+  <Project Path="../User-Data/User-Data.csproj" Id="fd62da2e-69b4-4a93-bf4c-8217128b7f71" />
+  <Project Path="../Var keyword/Var keyword.csproj" Id="056ed4f6-887e-48f3-a7a6-4dd4f64edb9f" />
+  <Project Path="datatypes.csproj" Id="ffa993b1-3746-436e-9d12-4faf963015d8" />
+</Solution>

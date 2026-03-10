@@ -1,0 +1,40 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / VSCode settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# NuGet
+*.nupkg
+packages/
+.nuget/
+
+# Build folders
+Debug/
+Release/
+
+# Test results
+TestResults/
+
+# Dotnet tools
+.dotnet/
+
+# Generated files
+*.g.cs
+*.generated.cs
