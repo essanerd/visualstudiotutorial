@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="../Array-Clearing/Array-Clearing.csproj" Id="6c3fdb43-443f-4d2d-9d20-0c0f4964349b" />
+  <Project Path="../Array-Reversal/Array-Reversal.csproj" Id="b78e5304-2756-4bc8-bf26-111035f8e9c2" />
   <Project Path="../Arrays/Arrays.csproj" Id="605d39ba-923c-4351-9a2e-1b64bd2646eb" />
   <Project Path="../Concat/Concat.csproj" Id="59d12b79-d52b-4c60-b6ec-2aeac7ed1ac4" />
   <Project Path="../ConsoleApp1/EmptyorNUll.csproj" Id="f386b80f-e093-40b1-93a6-eda5a0732a84" />
@@ -8,6 +10,7 @@
   <Project Path="../FizzBuzz/FizzBuzz.csproj" Id="20078552-5655-4509-a50d-8e69ed13b6fc" />
   <Project Path="../For-Loop/For-Loop.csproj" Id="f21a96a3-08f3-4d31-adf9-d90beedab7b1" />
   <Project Path="../If-Statments/If-Statments.csproj" Id="9ace29ff-0feb-4cb7-b3ef-15b7c24bc2f9" />
+  <Project Path="../IndexOf/IndexOf.csproj" Id="9b575f21-dab5-469f-b031-ae30cd9bec16" />
   <Project Path="../Loops/Loops.csproj" Id="c3bc3b56-04a1-49f9-b604-aeabf012abe9" />
   <Project Path="../Number-Formatting/Number-Formatting.csproj" Id="60ca154f-a96e-4935-b791-2c6e1781cea0" />
   <Project Path="../Odd-Even/Odd-Even.csproj" Id="3a3a362d-119c-49b7-9a2e-21182b3f6ab5" />
