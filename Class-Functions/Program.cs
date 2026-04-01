@@ -20,15 +20,19 @@ namespace Class_Functions
                 this.age = age;
             }
 
-             static string ReturnDetails() {
+          
+
+             public string ReturnDetails() {
 
                return $"name: {name}\nAge {age} ";
            }
+
             static void Main(string[] args)
             {
                 Person person = new Person("Aba", 23);
                 Console.WriteLine(Returnperson(person.name,person.age));
 
+                
                 Console.ReadLine();
             }
 
