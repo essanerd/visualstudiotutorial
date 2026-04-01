@@ -1,29 +1,51 @@
 <Solution>
   <Project Path="../Array-Clearing/Array-Clearing.csproj" Id="6c3fdb43-443f-4d2d-9d20-0c0f4964349b" />
   <Project Path="../Array-Reversal/Array-Reversal.csproj" Id="b78e5304-2756-4bc8-bf26-111035f8e9c2" />
+  <Project Path="../ArrayOfMultiples/ArrayOfMultiples.csproj" Id="ea297d29-0a67-4e00-90e1-35a7bd86e244" />
   <Project Path="../Arrays/Arrays.csproj" Id="605d39ba-923c-4351-9a2e-1b64bd2646eb" />
+  <Project Path="../Class-Functions/Class-Functions.csproj" Id="e23aca3a-70d6-427a-8515-a83830577ce8" />
+  <Project Path="../Classes/Classes.csproj" Id="3decac78-12dc-48dd-ad9a-6d42bc11e46e" />
   <Project Path="../Concat/Concat.csproj" Id="59d12b79-d52b-4c60-b6ec-2aeac7ed1ac4" />
   <Project Path="../ConsoleApp1/EmptyorNUll.csproj" Id="f386b80f-e093-40b1-93a6-eda5a0732a84" />
   <Project Path="../ConsoleInput/ConsoleInput.csproj" Id="746f99e9-d10d-492d-b952-78e2071a8351" />
   <Project Path="../Const/Const.csproj" Id="894b0178-ad60-4a47-8fcc-5b02824bcb0f" />
+  <Project Path="../Custom-TryParse/Custom-TryParse.csproj" Id="57223545-0b9b-4e01-bdab-84610e2ee435" />
+  <Project Path="../DeBugging/DeBugging.csproj" Id="32f9d1ee-89d8-46d5-ac04-91034e5c1d04" />
+  <Project Path="../Dictionaries/Dictionaries.csproj" Id="9d0b9f65-a790-4ae8-a0d9-e920657a47fd" />
   <Project Path="../Equals/Equals.csproj" Id="a6ca1469-fdd6-49c3-aa72-33ed829767a9" />
+  <Project Path="../EvenOdd-Split/EvenOdd-Split.csproj" Id="d54baf0e-b47a-472e-a13d-6f4c82ba4a9b" />
+  <Project Path="../Exception-Handling/Exception-Handling.csproj" Id="01ed821f-54df-475f-a262-8fc841b0c6d5" />
+  <Project Path="../Fix-Logic-Error/Fix-Logic-Error.csproj" Id="816ae848-8304-4f74-a8eb-9b05b9a43269" />
   <Project Path="../FizzBuzz/FizzBuzz.csproj" Id="20078552-5655-4509-a50d-8e69ed13b6fc" />
   <Project Path="../For-Loop/For-Loop.csproj" Id="f21a96a3-08f3-4d31-adf9-d90beedab7b1" />
+  <Project Path="../Function-Parameters/Function-Parameters.csproj" Id="2d9296a9-fbfe-416f-9476-ee38465839f2" />
+  <Project Path="../Functions/Functions.csproj" Id="71131baa-f39f-4aec-868f-05ab60e45c40" />
   <Project Path="../If-Statments/If-Statments.csproj" Id="9ace29ff-0feb-4cb7-b3ef-15b7c24bc2f9" />
   <Project Path="../IndexOf/IndexOf.csproj" Id="9b575f21-dab5-469f-b031-ae30cd9bec16" />
+  <Project Path="../Local-Auto-Window/Local-Auto-Window.csproj" Id="2a634633-42ae-42d6-a7e2-e95a29e82df2" />
   <Project Path="../Loops/Loops.csproj" Id="c3bc3b56-04a1-49f9-b604-aeabf012abe9" />
+  <Project Path="../Named-Parameters/Named-Parameters.csproj" Id="891b3a91-5616-4983-9e96-4b56a6c962e8" />
   <Project Path="../Number-Formatting/Number-Formatting.csproj" Id="60ca154f-a96e-4935-b791-2c6e1781cea0" />
   <Project Path="../Odd-Even/Odd-Even.csproj" Id="3a3a362d-119c-49b7-9a2e-21182b3f6ab5" />
   <Project Path="../Operators/Operators.csproj" Id="6b6148f9-e6b2-42e6-abe1-07890da36cd6" />
+  <Project Path="../Optional-Parameters/Optional-Parameters.csproj" Id="37f65378-1410-4088-88b7-00997ea2c462" />
+  <Project Path="../Out-Parameters/Out-Parameters.csproj" Id="d9a59668-479a-4e7d-b45f-9920dd386dad" />
   <Project Path="../Parse-Function/Parse-Function.csproj" Id="67d37679-af55-44a5-89b6-c16e070ee678" />
   <Project Path="../Password-Validator/Password-Validator.csproj" Id="d83da7ef-559a-4d50-97c5-ca498c77de30" />
+  <Project Path="../Printing-Error-Messages/Printing-Error-Messages.csproj" Id="179295b8-d2c5-42c4-9293-68927060495c" />
+  <Project Path="../Reference-Parameters/Reference-Parameters.csproj" Id="de4eda9b-88cf-4762-bb0a-dd44ada1087d" />
+  <Project Path="../Return-Type-Functions/Return-Type-Functions.csproj" Id="63734f0a-e2da-4d61-a22d-84910a16e75c" />
   <Project Path="../Sorting-Arrays/Sorting-Arrays.csproj" Id="8e3a13a5-f5fb-4c70-b418-ecc5ceebb302" />
   <Project Path="../String-Iteration/String-Iteration.csproj" Id="0655307d-d9b8-4315-9de6-0f24029fabd8" />
   <Project Path="../String-Reversed/String-Reversed.csproj" Id="275c4baf-d4af-4a9b-b9fc-292057ab80fc" />
   <Project Path="../string/string.csproj" Id="4062a8cd-bd1d-4f35-a082-ce35d9958a05" />
+  <Project Path="../Structures/Structures.csproj" Id="f29ee28d-a2b4-406a-9636-8d64cfde1af8" />
+  <Project Path="../Sum-Of-Int-Array/Sum-Of-Int-Array.csproj" Id="ce07a75c-0843-4374-a8a7-14974e920b28" />
   <Project Path="../SwitchStatments/SwitchStatments.csproj" Id="b1551f46-8ac4-4c6e-9aba-3b51a292c9de" />
   <Project Path="../Times-Table/Times-Table.csproj" Id="bb4b4909-096f-4edd-92ce-0ba6e4e8c68b" />
+  <Project Path="../Triangle-Area/Triangle-Area.csproj" Id="4c04c6fb-d8fc-4e2e-a457-d7868ea47e95" />
   <Project Path="../User-Data/User-Data.csproj" Id="fd62da2e-69b4-4a93-bf4c-8217128b7f71" />
   <Project Path="../Var keyword/Var keyword.csproj" Id="056ed4f6-887e-48f3-a7a6-4dd4f64edb9f" />
+  <Project Path="../Voi/Voi.csproj" Id="1c84392e-bd66-44c6-a7cf-3841b102f393" />
   <Project Path="datatypes.csproj" Id="ffa993b1-3746-436e-9d12-4faf963015d8" />
 </Solution>
